@@ -1,7 +1,7 @@
 ## Requirements
 
-Django
-Django REST Framework
+- Django
+- Django REST Framework
 
 ## Directory Structure
 
