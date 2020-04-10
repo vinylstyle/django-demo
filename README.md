@@ -1,8 +1,11 @@
 ## Directory Structure
 
 / - Django Project
+
 /app - Django app
+
 /frontend - React/Tailwind
+
 /website - Django Project Configurations
 
 ## Building React/Tailwind
