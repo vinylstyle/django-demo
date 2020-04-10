@@ -42,4 +42,4 @@ python manage.py runserver
 - Main Web App - http://127.0.0.1:8000
 - User API - http://127.0.0.1:8000/users/
 - Todo API - http://127.0.0.1:8000/todos/
--- Get Todo - http://127.0.0.1:8000/todos/<id>/
+- Get Todo by ID - http://127.0.0.1:8000/todos/id/ (replace id with value)
