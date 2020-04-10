@@ -15,6 +15,7 @@
 
 Execute this command to initialize the system tables.
 
+python manage.py makemigrations api_todo
 python manage.py migrate
 
 ## Create an admin user
@@ -41,3 +42,4 @@ python manage.py runserver
 - Main Web App - http://127.0.0.1:8000
 - User API - http://127.0.0.1:8000/users/
 - Todo API - http://127.0.0.1:8000/todos/
+-- Get Todo - http://127.0.0.1:8000/todos/<id>/
