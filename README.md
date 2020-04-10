@@ -15,8 +15,8 @@
 
 Execute this command to initialize the system tables.
 
-python manage.py makemigrations api_todo
-python manage.py migrate
+- python manage.py makemigrations api_todo
+- python manage.py migrate
 
 ## Create an admin user
 
